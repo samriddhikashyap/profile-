@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../ADV-C144-Student"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Website-Template"
+	}
+}
